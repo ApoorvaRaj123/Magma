@@ -125,7 +125,7 @@ nav img{
     align-items: start;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(0, 89, 255);
+    background-color: #0a3cce;
     font-family: a;
     color: #fff
 }
@@ -148,6 +148,8 @@ nav img{
 #page3{
     height: 100vh;
     width: 100vw;
+    position: relative;
+    background-color: #0a3cce;
 }
 
 #page3 canvas{
